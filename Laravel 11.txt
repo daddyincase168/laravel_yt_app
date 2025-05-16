@@ -1,0 +1,8 @@
+Laravel 11 
+	+ Command Line for laravel :
+		- composer create-project laravel/laravel:^11.0 your-project-name : create laravel project
+		- php artisan serve : Run laravel project
+		- php artisan make:controller ControllerName : create controller
+		- php artisan migration : create_TableName_table : create table
+
+	
